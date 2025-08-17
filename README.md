@@ -1,13 +1,6 @@
 # TinyML-with-Edge-Impulse
 This repository will go through the basics of setting up your TinyML device with Edge Impulse. It includes instructions on installation for relevant CLI, troubleshooting and an easy guide to allow more people to experience TinyML. This repository is built in partnership with Wireless Research @ UKM
-
-Perfect 👍 I’ll give you the **complete README** in a clean copy-paste format, ready to drop straight into `README.md` on your GitHub repo. All the sections, commands, troubleshooting, and references are already formatted with Markdown.
-
-Here you go:
-
 ---
-
-````markdown
 # 🚀 Edge Impulse on Linux with Arduino Nano 33 BLE Sense
 
 A complete guide to installing the **Edge Impulse CLI** on Linux, installing and configuring the **Arduino CLI**, flashing your **Arduino Nano 33 BLE Sense**, selecting the correct serial port, and solving all common issues—including environment and dependency problems.
@@ -213,17 +206,6 @@ newgrp dialout
 
 ---
 
-## 📚 References
-
-* [Edge Impulse Docs](https://docs.edgeimpulse.com/tools/clis/edge-impulse-cli/installation)
-* [Arduino Nano 33 BLE Sense](https://docs.edgeimpulse.com/hardware/boards/arduino-nano-33-ble-sense)
-* [Arduino CLI](https://arduino.github.io/arduino-cli)
-
----
-
-```
-
----
 
 ✅ This is fully formatted Markdown, you can paste it **as-is** into your `README.md`.  
 
