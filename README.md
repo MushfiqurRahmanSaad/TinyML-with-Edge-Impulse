@@ -3,7 +3,7 @@ This repository will go through the basics of setting up your TinyML device with
 ---
 # 🚀 Edge Impulse on Linux with Arduino Nano 33 BLE Sense
 
-A complete guide to installing the **Edge Impulse CLI** on Linux, installing and configuring the **Arduino CLI**, flashing your **Arduino Nano 33 BLE Sense**, selecting the correct serial port, and solving all common issues—including environment and dependency problems.
+A complete guide to installing the **Edge Impulse CLI** on Linux, installing and configuring the **Arduino CLI**, flashing your **Arduino Nano 33 BLE Sense**, selecting the correct serial port, and solving all common issues including environment and dependency problems.
 
 ---
 
